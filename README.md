@@ -22,9 +22,12 @@ TBD:
 - Recovered
 
 ## Update frequency
-Files are updated every hour 
+Files are updated every hour
 
 ## Contact:<br>
 
 * Email: dataoptimum@gmail.com
+
+## Fundraising
+Sponsor button leads to official COVID-19 Solidarity Response Fund for WHO. The United Nations Foundation and the Swiss Philanthropy Foundation will manage the COVID-19 Solidarity Response Fund to address the need for money to prepare for and respond to the spread of the coronavirus. Please support.
 
