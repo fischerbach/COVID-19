@@ -12,7 +12,7 @@ YYYY-MM-DD.csv in UTC.
 ## Field description
 
 - Voivodeship - equivalent of Province/State
-- County/City - only cities with county rights
+- County/City - counties or cities with county rights
 - Last Update: YYYY-MM-DD hh:mm:ss (24 hour format, in UTC)
 - Confirmed: the number of confirmed cases
 - Deaths: the number of deaths
