@@ -1,5 +1,8 @@
 # COVID-19 in Poland Dataset
 
+## !!! IMPORTANT !!!
+Todays afternoon (17/03/2020) County/City column disappeared from original source! I will apply for it using constitutional rights of access to public information.
+
 ## Data Sources
 
 - Polish Government: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
