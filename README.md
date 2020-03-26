@@ -3,10 +3,19 @@
 ## !!! IMPORTANT !!!
 Todays afternoon (17/03/2020) County/City column disappeared from original source! I will apply for it using constitutional rights of access to public information.
 
+**Update 26/03/2020** 
+
+I received answer from MSI. Unfortunately data from them are incomplete. You'll find raw data in folder *public_data/GIS_250302020*.
+
 ## Data Sources
 
 - Polish Government: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
-    - original source: Główny Inspektorat Sanitarny (Main Sanitary Inspectorate)
+
+    original source: 
+
+    * before 17/03/2020: Główny Inspektorat Sanitarny (Main Sanitary Inspectorate)
+
+    - after 17/03/202: Ministerstwo Zdrowia (Ministry of Health)
 
 ## File naming convention
 
